@@ -1,0 +1,21 @@
+GROUP MEMBERS:
+
+1.SETHURAMAN.M
+
+2.TAMILVASAN.K
+
+3.PREMANAND.R
+
+4.NATESH.T
+
+DIAMOND PRICE PREDICTION
+           Diamonds are priced according to the 4C's.Diamond carat weight and diamond color tend to have the most impact on the price.However,many factor contribute to the final price of any particular stone.Here are 7 factors of diamonds prices,starting with the 4C's:carat weight,
+diamond color,diamond clarity,diamond cut,diamond shape and market factors.
+
+          we really need to understand data, in the point of view as analyst and also common pepole.The objective is to find out function or algorithm that can predict the diamond price
+accurately.But one thing we have to remember,first we must explore the data properly.The data
+pre-processing must make sense,of course. 
+             
+
+
+             
